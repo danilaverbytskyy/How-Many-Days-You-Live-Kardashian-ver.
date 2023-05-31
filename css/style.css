@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FFFF9E;;
+    color: #222222;
+}
+
+.myform {
+    padding-top: 15px;
+}
